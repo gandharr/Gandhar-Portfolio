@@ -6,7 +6,7 @@ https://gandharr.github.io/gandhar-Portfolio-Website/
 
 ## Screenshots
 
-<img width="1919" height="534" alt="Screenshot 2025-12-21 151553" src="https://github.com/user-attachments/assets/d253c3af-b083-4303-aeeb-6c1d103f1fd9" />
+<img width="1919" height="534" alt="Hero image" src="src/images/HeroImageNew.jpeg" />
 
 <img width="1918" height="819" alt="Screenshot 2025-12-21 151607" src="https://github.com/user-attachments/assets/1e2830ae-4502-43df-bda9-0ab4ec81db73" />
 <img width="1919" height="628" alt="Screenshot 2025-12-21 151620" src="https://github.com/user-attachments/assets/b345ff1f-7abd-4465-aeb9-c1a828e3fb20" />
