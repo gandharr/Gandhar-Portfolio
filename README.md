@@ -4,16 +4,6 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 ### Weblink
 https://gandharr.github.io/gandhar-Portfolio-Website/
 
-## Screenshots
-
-<img width="1919" height="534" alt="Hero image" src="src/images/HeroImageNew.jpeg" />
-
-<img width="1918" height="819" alt="Screenshot 2025-12-21 151607" src="https://github.com/user-attachments/assets/1e2830ae-4502-43df-bda9-0ab4ec81db73" />
-<img width="1919" height="628" alt="Screenshot 2025-12-21 151620" src="https://github.com/user-attachments/assets/b345ff1f-7abd-4465-aeb9-c1a828e3fb20" />
-<img width="1919" height="717" alt="Screenshot 2025-12-21 151637" src="https://github.com/user-attachments/assets/5b4a87f7-1021-4d41-a863-2cd488d77031" />
-<img width="1918" height="898" alt="Screenshot 2025-12-21 151649" src="https://github.com/user-attachments/assets/a06f8dd2-4f6b-4da9-a358-a3711b79485a" />
-
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
