@@ -49,7 +49,10 @@ function SiteRoot() {
   const isLocalhost =
     window.location.hostname === "localhost" ||
     window.location.hostname === "127.0.0.1";
-  const routerBasename = isLocalhost ? "/" : "/gandhar-Portfolio-Website";
+  const publicUrl = process.env.PUBLIC_URL || "";
+  const routerBasename = isLocalhost
+    ? "/"
+    : publicUrl.replace(/^https?:\/\/[^/]+/, "") || "/";
   return (
     <ThemeProvider theme={darkTheme}>
       <BrowserRouter basename={routerBasename}>

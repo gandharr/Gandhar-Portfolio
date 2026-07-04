@@ -2,7 +2,7 @@
 Welcome to my portfolio! This project showcases my skills, projects, and experiences.
 
 ### Weblink
-https://gandharr.github.io/gandhar-Portfolio-Website/
+https://gandharr.github.io/Gandhar-Portfolio/
 
 ## Screenshots
 

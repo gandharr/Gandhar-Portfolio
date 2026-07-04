@@ -1,7 +1,7 @@
 {
   "name": "3d-portfolio-website",
   "version": "0.1.1",
-  "homepage": "https://gandharr.github.io/gandhar-Portfolio-Website",
+  "homepage": "https://gandharr.github.io/Gandhar-Portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.1.0",
